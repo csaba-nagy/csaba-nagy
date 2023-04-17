@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi :vulcan_salute:
 
 <!--
 **csaba-nagy/csaba-nagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Stats
+![Csaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=csaba-nagy&count_private=true&theme=codeSTACKr)
+
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csaba-nagy&hide=css,shell,dockerfile,html&theme=codeSTACKr)](https://github.com/csaba-nagy/github-readme-stats)
+
+
